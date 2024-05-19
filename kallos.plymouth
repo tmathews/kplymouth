@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Kallos Theme
+Description=Simple theme for Kallos
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kallos
+ScriptFile=/usr/share/plymouth/themes/kallos/main.script
